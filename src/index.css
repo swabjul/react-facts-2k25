@@ -32,7 +32,7 @@ main {
   width: 100%;
   height: calc(100dvh - 90px);
   /* background-color: #282D35; */
-  background: #282D35 url('./assets/react-bg.png') no-repeat right 50px / 160px;
+  background: #282D35 url('./assets/react-bg.png') no-repeat right 125px / 160px;
   padding: 57px 27px;
   color: #fff;
 }
